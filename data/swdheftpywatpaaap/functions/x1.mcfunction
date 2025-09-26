@@ -1,0 +1,2 @@
+advancement revoke @s only swdheftpywatpaaap:x1
+fill ~-6 ~-6 ~-6 ~6 ~6 ~6 command_block{auto:1b,Command:"execute align xyz positioned ~0.5 ~ ~0.5 run fill ~ ~ ~ ~1 ~2 ~ light_blue_stained_glass replace #swdheftpywatpaaap:portal_can_replace"} replace water
