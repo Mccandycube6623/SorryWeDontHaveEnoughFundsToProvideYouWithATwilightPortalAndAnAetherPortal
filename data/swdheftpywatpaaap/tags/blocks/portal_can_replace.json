@@ -2,7 +2,6 @@
     "replace": false,
     "values": [
       "minecraft:water",
-      "minecraft:ice",
       "minecraft:cave_air",
       "minecraft:air",
       "minecraft:light_blue_stained_glass",
