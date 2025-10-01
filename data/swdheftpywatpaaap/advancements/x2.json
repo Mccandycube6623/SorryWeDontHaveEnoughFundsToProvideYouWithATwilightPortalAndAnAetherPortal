@@ -1,0 +1,26 @@
+{
+  "criteria": {
+    "x2": {
+      "trigger": "minecraft:placed_block",
+      "conditions": {
+        "location": [
+          {
+            "condition": "minecraft:reference",
+            "name": "swdheftpywatpaaap:x2"
+          },
+          {
+            "condition": "minecraft:match_tool",
+            "predicate": {
+              "items": [
+                "minecraft:water_bucket"
+              ]
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "function": "swdheftpywatpaaap:x2"
+  }
+}
