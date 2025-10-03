@@ -1,10 +1,10 @@
 {
-    "replace": false,
-    "values": [
-      "minecraft:water",
-      "minecraft:cave_air",
-      "minecraft:air",
-      "minecraft:light_blue_stained_glass",
-      "minecraft:command_block"
-    ]
-  }
+  "replace": false,
+  "values": [
+    "minecraft:water",
+    "minecraft:cave_air",
+    "minecraft:air",
+    "minecraft:light_blue_stained_glass",
+    "minecraft:command_block"
+  ]
+}
